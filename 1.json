@@ -1,12 +1,12 @@
 {
-  "title": "Tsuma wa Midare",
+  "title": "D",
   "description": "",
   "artist": "",
   "author": "",
-  "cover": "https://bitbucket.org/tebeasew/h/raw/8897f481eac94af6cf65ab4f16a0c5f403bf831e/1/1/01.webp",
+  "cover": "",
   "chapters": {
     "1": {
-      "title": "Mesunoyado ~Tsuma wa Midare Kegasareru~",
+      "title": "Mesunoyado ~Tsuma wa Midare Kegasareru~ | 1",
       "volume": "",
       "last_updated": "1755486600",
       "groups": {
@@ -65,7 +65,7 @@
       }
     },
     "2": {
-      "title": "Mesu no Ie - Married Woman's House ~Tsuma wa Midare Ubawareru~",
+      "title": "Mesu no Ie ~Tsuma wa Midare Ubawareru~ | 2",
       "volume": "",
       "last_updated": "1755487086",
       "groups": {
@@ -127,7 +127,7 @@
       }
     },
     "3": {
-      "title": "Rouka no Musume",
+      "title": "Uragiri no Mesubuta Choukyou -Akogare no Gishi-",
       "volume": "",
       "last_updated": "1755491144",
       "groups": {
@@ -202,6 +202,41 @@
           "https://bitbucket.org/tebeasew/h/raw/dc4245bb9e24471f74ba50848d444d871a20a670/2/68.webp",
           "https://bitbucket.org/tebeasew/h/raw/dc4245bb9e24471f74ba50848d444d871a20a670/2/69.webp",
           "https://bitbucket.org/tebeasew/h/raw/dc4245bb9e24471f74ba50848d444d871a20a670/2/70.webp"
+        ]
+      }
+    },
+    "4": {
+      "title": "Rouka no Musume | 1",
+      "volume": "",
+      "last_updated": "1755492513",
+      "groups": {
+        "": [
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/01.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/02.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/03.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/04.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/05.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/06.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/07.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/08.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/09.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/10.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/11.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/12.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/13.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/14.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/15.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/16.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/17.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/18.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/19.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/20.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/21.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/22.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/23.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/24.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/25.webp",
+          "https://bitbucket.org/tebeasew/h/raw/5ec7b6ca4ebb2b452dad5083f20c0c22ba4a94ce/3/1/26.webp"
         ]
       }
     }
